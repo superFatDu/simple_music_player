@@ -1,0 +1,22 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+
+// iconfont
+@font-face {
+  font-family: 'iconfont';  /* project id 1489201 */
+  src: url('//at.alicdn.com/t/font_1489201_k7l3lypz2jr.eot');
+  src: url('//at.alicdn.com/t/font_1489201_k7l3lypz2jr.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_1489201_k7l3lypz2jr.woff2') format('woff2'),
+  url('//at.alicdn.com/t/font_1489201_k7l3lypz2jr.woff') format('woff'),
+  url('//at.alicdn.com/t/font_1489201_k7l3lypz2jr.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_1489201_k7l3lypz2jr.svg#iconfont') format('svg');
+}
