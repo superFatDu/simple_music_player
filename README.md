@@ -4,4 +4,6 @@
 
 ## developer
 
-> superduchengwu@gmail.com
+```text
+superduchengwu@gmail.com
+```
